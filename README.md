@@ -1,5 +1,5 @@
 # mindpalace
 new ideas and projects that im interested to work on
-I am working on python
+Python
 
 I am not always reachable.Sorry.
